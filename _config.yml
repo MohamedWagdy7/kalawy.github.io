@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name: "Kalawy"
-  avatar: /assets/images/site_data/logo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: /assets/images/site_data/avatar.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "Bug Hunter & Digital Forensics enthusiastic"
   location: "Egypt"
   email:
