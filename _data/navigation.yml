@@ -6,6 +6,4 @@ main:
   - title: "Malware Analysis"
     url: /categories/#malware-analysis
   - title: "Tutorials & Labs"
-    url: /categories/#tutorials-labs  
-  - title: "About Me"
-    url: /about/
+    url: /categories/#tutorials-labs
